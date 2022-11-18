@@ -1,0 +1,14 @@
+# missi-user 12 SKQ1.211006.001 V13.0.5.0.SKBMIXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: venus
+- flavor: missi-user
+- release: 12
+- id: SKQ1.211006.001
+- incremental: V13.0.5.0.SKBMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/venus_global/venus:12/RKQ1.211001.001/V13.0.5.0.SKBMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-12-SKQ1.211006.001-V13.0.5.0.SKBMIXM-release-keys
+- repo: xiaomi_venus_dump
