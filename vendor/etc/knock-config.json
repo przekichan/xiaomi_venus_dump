@@ -1,0 +1,15 @@
+{
+  "knockConfigs": [{
+    "displayVersion": "18",
+    "deviceProperty": 1,
+    "localAlgorithmPath": "/vendor/etc/models_knock_k2_20210401.dlc",
+    "knockRegion": "2,2,2,2",
+    "deviceX":"16,36",
+    "knockScoreThreshold": 0.6,
+    "deviceName": "venus",
+    "useFrame": "2",
+    "quickMoveSpeed": "2.5",
+    "sensorThreshold": "72,65,63,60"
+  }
+  ]
+}
